@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rmdcev"]
+	path = rmdcev
+	url = https://github.com/plloydsmith/rmdcev
+	shallow = true
+	registered = true
